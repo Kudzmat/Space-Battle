@@ -15,5 +15,6 @@ Controls
 
 
 Movement - Use the mouse to move the space battleship in multiple directions
+
 Shoot - Press the mouse to fire your nuclear laser
 
